@@ -1,1 +1,1 @@
-# Repository for Xooa loogs. 
+# Repository for Xooa logo. 
